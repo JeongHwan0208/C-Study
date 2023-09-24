@@ -70,7 +70,7 @@ int main(void) {
 
 흔한 수학 문제 중 하나는 주어진 점이 어느 사분면에 속하는지 알아내는 것이다. 사분면은 아래 그림처럼 1부터 4까지 번호를 갖는다. "Quadrant n"은 "제n사분면"이라는 뜻이다.
 
-![조건문 1](C:\Users\pc\Desktop\조건문 1.png)
+![조건문 1](https://github.com/JeongHwan0208/C-Study/blob/main/C%EC%96%B8%EC%96%B4%20%EB%AC%B8%EC%A0%9C%20%EC%A0%95%EB%A6%AC/img/%EC%A1%B0%EA%B1%B4%EB%AC%B8%201.png)
 
 ```C
 #include <stdio.h>
